@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651757939 source:c:\users\georg\onedrive\documents\mf\info\code_blocks\variables\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aire.h"
+
+1651758925 c:\users\georg\onedrive\documents\mf\info\code_blocks\variables\aire.h
+	<stdio.h>
+
